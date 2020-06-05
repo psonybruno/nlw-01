@@ -1,4 +1,4 @@
-# Ecoleta
+# ![Ecoleta](https://drive.google.com/uc?export=view&id=1gQHfu-MyrZBkDbVD9SZQ5nR7TbTj_N4I "Ecoleta")
 Projeto construído durante o evento Next Level Week (NLW) da Rockeseat
 
 #### Descrição geral da aplicação
@@ -9,7 +9,23 @@ Linguagem de desenvolvimento: NodeJS
 
 
 ## Aplicação: Web
-Linguagem de desenvolvimento: ReactJS
+Linguagem de desenvolvimento: React
+
+|   | |
+| ------------- | ---- |
+|![Screenshot 01](https://drive.google.com/uc?export=view&id=1jcNFD_PsetsEN3Vdcm08Lce5Y0Gh2oo5) |![Screenshot 01](https://drive.google.com/uc?export=view&id=184PYiSOb8QXll7Q9M-zOsGZp_SZX9LK2)  | 
+
+|   |  |  |
+| ------------- | ------------- | ------------- |
+| ![Screenshot 01](https://drive.google.com/uc?export=view&id=1hFPfu4g956haXr9r4SSxgebSukJytWCZ)  | ![Screenshot 01](https://drive.google.com/uc?export=view&id=1bSql7X7sVA_C4c7fPUncldLPFaNf6hSz)  | ![Screenshot 01](https://drive.google.com/uc?export=view&id=1Gqf1Trd2r5YvMi16t5ZInbQkeIcN6MR9) |
+
+
+
+
+
+
+
+
 
 
 ## Aplicação: Mobile
